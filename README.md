@@ -1,1 +1,1 @@
-* IDN IMO 2016: 6 emas!
+# IDN IMO 2016: 6 emas!
