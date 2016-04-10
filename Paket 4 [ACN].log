@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.2)  7 APR 2016 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.2)  10 APR 2016 17:30
 entering extended mode
 **"./Paket 4 [ACN].tex"
 ("Paket 4 [ACN].tex"
@@ -146,7 +146,7 @@ Here is how much of TeX's memory you used:
  4629 multiletter control sequences out of 15000+200000
  6897 words of font info for 27 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,4n,26p,721b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,4n,26p,644b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
 <B:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><B:/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmmi10.pfb><B:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pf
@@ -156,7 +156,7 @@ m/cmr17.pfb><B:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><B:/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><B:/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmti10.pfb><B:/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm1
 0.pfb>
-Output written on "Paket 4 [ACN].pdf" (1 page, 121814 bytes).
+Output written on "Paket 4 [ACN].pdf" (1 page, 121539 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
